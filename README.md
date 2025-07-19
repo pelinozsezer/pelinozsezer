@@ -1,7 +1,7 @@
 ### **_✨ Code is the runes that shape dreams into reality. ✨_**
 
 ## 💫 About Me:
-I'm a full-stack developer with a background in neuroscience research and data analysis, now focused on building clean, reliable, and scalable software systems. I work across the stack using:<br><br>**Frontend:** React, JavaScript, TypeScript, Redux<br><br>**Backend:** Python, Java, Spring Boot, SQL<br><br>I emphasize layered architecture, role-based access control, and robust, well-documented APIs.<br>I'm committed to writing clean, readable, and well-tested code and always working to get better at it.
+I'm a full-stack developer with a background in neuroscience research and data analysis, now focused on building clean, reliable, and scalable software systems. I work across the stack using:<br><br>**Frontend:** React, JavaScript, TypeScript, Redux<br><br>**Backend:** Python, Java, Spring Boot, SQL<br><br>I'm committed to writing clean, readable, and well-tested code and always working to get better at it.
 
 
 ### 🌐 Socials:
